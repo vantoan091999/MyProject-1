@@ -90,20 +90,20 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                         <i class="fa fa-book"></i>
                         <span>Danh mục sản phẩm</span>
                     </a>
-                    {{-- <ul class="sub">
+                    <ul class="sub">
 						<li><a href="{{route('category-add')}}">Thêm danh mục sản phẩm</a></li>
 						<li><a href="{{route('category-list')}}">Liệt kê danh mục sản phẩm</a></li> 
-                    </ul> --}}
+                    </ul>
                 </li>
 				<li class="sub-menu">
                     <a href="javascript:;">
                         <i class="fa fa-book"></i>
                         <span>Thương hiệu sản phẩm</span>
                     </a>
-                    {{-- <ul class="sub">
+                    <ul class="sub">
 						<li><a href="{{route('brand-add')}}">Thêm thương hiệu sản phẩm</a></li>
 						<li><a href="{{route('brand-list')}}">Liệt kê thương hiệu sản phẩm</a></li> 
-                    </ul> --}}
+                    </ul>
                 </li>
 				<li class="sub-menu">
                     <a href="javascript:;">
